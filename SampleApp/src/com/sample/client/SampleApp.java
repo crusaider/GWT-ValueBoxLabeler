@@ -3,6 +3,7 @@ package com.sample.client;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.user.client.ui.RootPanel;
 import com.google.gwt.user.client.ui.TextBox;
+import com.momab.gwt.client.util.ValueBoxLabeler;
 
 public class SampleApp implements EntryPoint {
 

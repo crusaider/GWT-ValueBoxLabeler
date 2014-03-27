@@ -1,4 +1,4 @@
-package com.sample.client;
+package com.momab.gwt.client.util;
 
 import com.google.gwt.event.dom.client.BlurEvent;
 import com.google.gwt.event.dom.client.BlurHandler;

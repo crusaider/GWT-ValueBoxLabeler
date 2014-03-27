@@ -15,8 +15,5 @@ gwt-unitCache/
 war/WEB-INF/deploy/
 war/WEB-INF/classes/
 
-SampleApp/.settings
-SampleApp/gwt-unitCache
+.settings
 SampleApp/war/sampleapp
-SampleApp/war/WEB-INF
-SampleApp/bin
