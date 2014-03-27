@@ -1,7 +1,7 @@
 GWT-ValueBoxLabeler
 ===================
 
-Adds the title of a ValueBox based widget (most of the HTML text box based widgets) as a background in the text box as long as the user has not entered any value in the widget.
+Adds the title as a default text label ValueBox based widget (most of the HTML text box based widgets) as a background in the text box as long as the user has not entered any value in the widget.
 
 ![Sample text box](https://raw.githubusercontent.com/crusaider/GWT-ValueBoxLabeler/master/sample-text-box.PNG "Sample text box")
 
