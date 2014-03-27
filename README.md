@@ -11,15 +11,13 @@ text box contains no value.
 
 The text displayed text in the box is defined using the widgets title attribute.
 The appearance of the background text is controlled trough the CSS class
-"Labeled-Text-Box".
+'Labeled-Text-Box'.
 
 Use the class by instantiating a object of it suppling the widget to be
 labeled to the constructor.
 
- Solution inspiration from <a href=
-"http://viralpatel.net/blogs/default-text-label-textbox-javascript-jquery/"
->this blog post</a> by <a
- href="https://plus.google.com/+ViralPatel1/about">Viral Patel</a>.
+ Solution inspiration from [this blog post] (http://viralpatel.net/blogs/default-text-label-textbox-javascript-jquery/)
+by [Viral Patel](https://plus.google.com/+ViralPatel1/about)
 
 Usage
 =====
@@ -28,10 +26,12 @@ Either simply copy the file ValueBoxLabeler.java file into your project,
 possibly adjusting the package, or put the the valueboxlabeler-x.x.x.jar
 on your class path.
 
-If you choose to use the jar you will also have to have a "inherits" line
-in your module(s)
+If you choose to use the jar you will also have to have a 'inherits' line
+in your module(s):
 
-<inherits name='com.momab.gwt.util'/>
+<blockquote>
+'<inherits name='com.momab.gwt.util'/>'
+</blockquote>
 
 To add a label to a textbox widget, set the title attribute of the widget,
 instanciate a instance of the ValueBoxLabel class suppying the text box
